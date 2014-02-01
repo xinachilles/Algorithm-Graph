@@ -1,0 +1,19 @@
+C:\Users\xinh\AppData\Local\Temporary Projects\Algorithm-Graph\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\xinh\AppData\Local\Temporary Projects\Algorithm-Graph\bin\Debug\Algorithm-Graph.dll
+C:\Users\xinh\AppData\Local\Temporary Projects\Algorithm-Graph\bin\Debug\Algorithm-Graph.pdb
+C:\Users\xinh\AppData\Local\Temporary Projects\Algorithm-Graph\obj\Debug\Algorithm-Graph.dll
+C:\Users\xinh\AppData\Local\Temporary Projects\Algorithm-Graph\obj\Debug\Algorithm-Graph.pdb
+G:\GitHub\Algorithm-Graph\Algorithm-Graph\obj\Debug\Algorithm-Graph.dll
+C:\Xin\Algorithm-Graph-master\Algorithm-Graph\obj\Debug\ResolveAssemblyReference.cache
+C:\Xin\Algorithm-Graph-master\Algorithm-Graph\obj\Debug\Algorithm-Graph.dll
+C:\Xin\Algorithm-Graph-master\Algorithm-Graph\bin\Debug\Algorithm-Graph.dll
+C:\Xin\Algorithm-Graph-master\Algorithm-Graph\bin\Debug\Algorithm-Graph.pdb
+C:\Xin\Algorithm-Graph-master\Algorithm-Graph\obj\Debug\Algorithm-Graph.pdb
+C:\Xin\Algorithm-Graph-master\Algorithm-Graph\bin\Debug\Algorithm-Heap.dll
+C:\Xin\Algorithm-Graph-master\Algorithm-Graph\bin\Debug\Algorithm-Heap.pdb
+G:\GitHub\Algorithm-Graph\Algorithm-Graph\bin\Debug\Algorithm-Graph.dll
+G:\GitHub\Algorithm-Graph\Algorithm-Graph\bin\Debug\Algorithm-Graph.pdb
+G:\GitHub\Algorithm-Graph\Algorithm-Graph\obj\Debug\Algorithm-Graph.csprojResolveAssemblyReference.cache
+G:\GitHub\Algorithm-Graph\Algorithm-Graph\obj\Debug\Algorithm-Graph.pdb
+G:\GitHub\Algorithm-Graph\Algorithm-Graph\bin\Debug\Algorithm-Heap.dll
+G:\GitHub\Algorithm-Graph\Algorithm-Graph\bin\Debug\Algorithm-Heap.pdb
