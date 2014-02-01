@@ -1,0 +1,7 @@
+G:\GitHub\Algorithm-Graph\TestProject\bin\Debug\TestProject.dll
+G:\GitHub\Algorithm-Graph\TestProject\bin\Debug\TestProject.pdb
+G:\GitHub\Algorithm-Graph\TestProject\bin\Debug\Algorithm-Heap.dll
+G:\GitHub\Algorithm-Graph\TestProject\bin\Debug\Algorithm-Heap.pdb
+G:\GitHub\Algorithm-Graph\TestProject\obj\Debug\TestProject.csprojResolveAssemblyReference.cache
+G:\GitHub\Algorithm-Graph\TestProject\obj\Debug\TestProject.dll
+G:\GitHub\Algorithm-Graph\TestProject\obj\Debug\TestProject.pdb

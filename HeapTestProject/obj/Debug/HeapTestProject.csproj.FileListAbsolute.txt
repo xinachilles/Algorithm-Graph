@@ -1,0 +1,7 @@
+C:\Xin\Algorithm-Graph-master\HeapTestProject\bin\Debug\HeapTestProject.dll
+C:\Xin\Algorithm-Graph-master\HeapTestProject\bin\Debug\HeapTestProject.pdb
+C:\Xin\Algorithm-Graph-master\HeapTestProject\bin\Debug\Algorithm-Heap.dll
+C:\Xin\Algorithm-Graph-master\HeapTestProject\bin\Debug\Algorithm-Heap.pdb
+C:\Xin\Algorithm-Graph-master\HeapTestProject\obj\Debug\ResolveAssemblyReference.cache
+C:\Xin\Algorithm-Graph-master\HeapTestProject\obj\Debug\HeapTestProject.dll
+C:\Xin\Algorithm-Graph-master\HeapTestProject\obj\Debug\HeapTestProject.pdb
