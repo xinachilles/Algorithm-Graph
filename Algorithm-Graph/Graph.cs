@@ -183,6 +183,7 @@ namespace Algorithm_Graph
 
         #region 4.2
         //4.2 Given a directed graph, design an algorithm to find out whether there is a route between two nodes.
+       
         public bool BFSSearch(GraphNode<T> start, GraphNode<T> end)
         {
             // operates as Queue
@@ -367,11 +368,6 @@ namespace Algorithm_Graph
                 {
                     Relax(u, item, u.Costs[item], q);
                 }
-
-
-               
-
-
             }
         }
         #endregion
